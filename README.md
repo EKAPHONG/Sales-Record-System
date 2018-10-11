@@ -1,0 +1,2 @@
+# Sales-Record-System
+ระบบบันทึกยอดขาย
